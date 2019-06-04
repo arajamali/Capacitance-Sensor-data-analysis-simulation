@@ -1,1 +1,0 @@
-void function(int, int, int, double, double);
